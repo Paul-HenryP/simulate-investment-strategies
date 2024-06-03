@@ -1,5 +1,5 @@
 # simulate-investment-strategies
-Programm loeb hinnad CSV-failist ja katsetab nelja erinevat investeerimisstrateegiat, investeerides iga kuu 200 eurot ja trükkides välja iga strateegia tootluse.
+Programm loeb hinnad CSV-failist ja katsetab nelja erinevat investeerimisstrateegiat, investeerides algul 1000 ja edaspidi iga kuu 200 eurot trükkides välja iga strateegia tootluse. Kasutatavad strateegiad: Osta ja hoia, liikuv keskmine, sta madalama hinnaga kui eelmine ost, Dollar cost averaging.
 
 ## Kasutamine
 
