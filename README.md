@@ -7,6 +7,6 @@ Programm loeb hinnad CSV-failist ja katsetab nelja erinevat investeerimisstratee
    
 3. Kontrollige ja vajadusel muutke programmi csvFile muutuja vastavaks oma CSV-faili teega.
 
-4. Määrake movingAveragePeriod ja monthlyInvestment ja investeeringute väärtused vastavalt vajadusele.
+4. Määrake movingAveragePeriod, monthlyInvestment ja initialInvestment väärtused vastavalt vajadusele.
   
 6. Käivitage programm.
