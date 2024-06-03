@@ -10,3 +10,6 @@ Programm loeb hinnad CSV-failist ja katsetab nelja erinevat investeerimisstratee
 4. Määrake movingAveragePeriod, monthlyInvestment ja initialInvestment väärtused vastavalt vajadusele.
   
 6. Käivitage programm.
+
+   ![image](https://github.com/Paul-HenryP/simulate-investment-strategies/assets/104301931/e9553936-6a56-4950-a5b9-9d6667c6c5f1)
+
