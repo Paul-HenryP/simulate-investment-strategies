@@ -4,7 +4,7 @@ This Java program simulates different investment strategies using historical sto
 
 ## Features
 
-- Simulates investment strategies using historical stock market data.
+- Simulates investment strategies using historical stock market data based on S&P500 (VOO.csv) monthly close prices with data from 2010-10-01 to 2024-05-01.
 - Supports multiple investment strategies: buy and hold, moving average, buy lower than last purchase, and dollar-cost averaging.
 - Generates graphical representations of investment results over time.
 - Allows users to adjust initial investment, monthly investment amount, and moving average period.
@@ -17,6 +17,8 @@ Follow these steps to run the program:
 
 
 2. **Navigate to the project directory:**
+
+git clone https://github.com/your-username/investment-strategies.git
 
 
 3. **Open the project in IntelliJ IDEA (or your preferred Java IDE).**
