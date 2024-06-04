@@ -24,7 +24,7 @@ git clone https://github.com/Paul-HenryP/simulate-investment-strategies.git
 
 3. **Open the project in IntelliJ IDEA (or your preferred Java IDE).**
 
-4. **Ensure that the required dependencies are installed:** The project uses Maven for dependency management. IntelliJ IDEA should automatically download the dependencies specified in the `pom.xml` file. If not, you may need to manually trigger a Maven reimport.
+4. **Ensure that the required dependencies are installed:** The project uses Maven for dependency management. IntelliJ IDEA should automatically download the dependencies specified in the `pom.xml` file. If not, you may need to manually trigger a Maven reimport. You can find the pom.xml configuration I used in the end of this file.
 
 5. **Prepare the historical stock market data:** You need to provide historical stock market data in CSV format. Replace the placeholder CSV file `VOO.csv` in the project directory with your own CSV file. Ensure that the CSV file contains the following columns: Date, Open, High, Low, Close, Adj Close, Volume.
 
@@ -71,7 +71,7 @@ Programm loeb hinnad CSV-failist ja katsetab nelja erinevat investeerimisstratee
 
 4. Määrake movingAveragePeriod, monthlyInvestment ja initialInvestment väärtused vastavalt vajadusele.
    
-6. Kontrolli pom.xml faili sobivust kui kasutada Maven varianti. Minu pom faili sisu:
+6. Kontrolli pom.xml faili sobivust kui kasutada Maven varianti. Minu pom.xml faili sisu:
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
@@ -103,8 +103,15 @@ Programm loeb hinnad CSV-failist ja katsetab nelja erinevat investeerimisstratee
     </dependencies>
 </project>
 ```
+
+
   
 8. Käivitage programm.
 
    ![image](https://github.com/Paul-HenryP/simulate-investment-strategies/assets/104301931/e9553936-6a56-4950-a5b9-9d6667c6c5f1)
+   
+   või
+
+   ![image](https://github.com/Paul-HenryP/simulate-investment-strategies/assets/104301931/7d73cef9-3b22-49dd-b16d-c85acee00fb9)
+
 
