@@ -69,8 +69,8 @@ Programm loeb hinnad CSV-failist ja katsetab nelja erinevat investeerimisstratee
 4. Määrake movingAveragePeriod, monthlyInvestment ja initialInvestment väärtused vastavalt vajadusele.
    
 6. Kontrolli pom.xml faili sobivust kui kasutada Maven varianti. Minu pom faili sisu:
-
-   `<?xml version="1.0" encoding="UTF-8"?>
+```
+<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
@@ -99,7 +99,7 @@ Programm loeb hinnad CSV-failist ja katsetab nelja erinevat investeerimisstratee
         </dependency>
     </dependencies>
 </project>
-`
+```
   
 8. Käivitage programm.
 
