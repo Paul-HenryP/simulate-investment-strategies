@@ -23,7 +23,7 @@ Follow these steps to run the program:
 
 4. **Ensure that the required dependencies are installed:** The project uses Maven for dependency management. IntelliJ IDEA should automatically download the dependencies specified in the `pom.xml` file. If not, you may need to manually trigger a Maven reimport.
 
-5. **Prepare the historical stock market data:** You need to provide historical stock market data in CSV format. Replace the placeholder CSV file `sp500.csv` in the project directory with your own CSV file. Ensure that the CSV file contains the following columns: Date, Open, High, Low, Close, Adj Close, Volume.
+5. **Prepare the historical stock market data:** You need to provide historical stock market data in CSV format. Replace the placeholder CSV file `VOO.csv` in the project directory with your own CSV file. Ensure that the CSV file contains the following columns: Date, Open, High, Low, Close, Adj Close, Volume.
 
 6. **Run the `InvestmentStrategiesChart` class:** This is the main class of the program. Running this class will simulate the investment strategies and generate graphical representations of the results.
 
@@ -40,7 +40,7 @@ You can customize the simulation by adjusting the following parameters:
 Here's an example of how to use the program:
 
 1. Clone the repository and navigate to the project directory.
-2. Replace the `sp500.csv` file with your own historical stock market data.
+2. Replace the `VOO.csv` file with your own historical stock market data.
 3. Open the project in IntelliJ IDEA.
 4. Run the `InvestmentStrategiesChart` class.
 5. View the graphical representations of the investment results.
