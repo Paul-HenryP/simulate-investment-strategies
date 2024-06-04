@@ -13,3 +13,16 @@ Programm loeb hinnad CSV-failist ja katsetab nelja erinevat investeerimisstratee
 
    ![image](https://github.com/Paul-HenryP/simulate-investment-strategies/assets/104301931/e9553936-6a56-4950-a5b9-9d6667c6c5f1)
 
+# simulate-investment-strategies Maven branch
+
+## Usage
+
+1.Make sure you open it in a maven project and the pom.xml file has the correct dependancies. Here I used:
+
+---
+
+(You need to click and reload the dependancies after editing the pom file.)
+
+2.Activate the program.
+
+![image](https://github.com/Paul-HenryP/simulate-investment-strategies/assets/104301931/485998be-556f-41b4-abc0-22de784972b7)
