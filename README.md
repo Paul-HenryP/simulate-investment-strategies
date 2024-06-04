@@ -17,9 +17,9 @@ Follow these steps to run the program:
 
 
 2. **Navigate to the project directory:**
-
-git clone https://github.com/your-username/investment-strategies.git
-
+```
+git clone https://github.com/Paul-HenryP/simulate-investment-strategies.git
+```
 
 3. **Open the project in IntelliJ IDEA (or your preferred Java IDE).**
 
