@@ -17,7 +17,7 @@ import java.util.List;
 
 /**
  * Author: Paul-Henry Paltmann
- * Do not use commercially without permission.
+ * 2024
  * No guarantees of the program working.
  */
 
